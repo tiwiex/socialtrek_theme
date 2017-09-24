@@ -1,9 +1,9 @@
 .stream-icon-new {
-  background: #1f80aa;
+  background: #faa700;
 }
 
 .teaser--stream .teaser__image {
-  border-radius: 0;
+  border-radius: 5;
 }
 
 .teaser--stream:last-child {

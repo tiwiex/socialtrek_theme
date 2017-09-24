@@ -11,6 +11,7 @@ version: '1.1'
 libraries:
   - socialtrek/brand
   - socialtrek/site-footer
+  - socialtrek/custom
 
 libraries-extend:
   socialbase/base:
@@ -81,8 +82,10 @@ libraries-extend:
     - socialtrek/page-node
   socialbase/tables:
     - socialtrek/tables
-ckeditor_stylesheets:
-  - assets/css/ckeditor.css
+  ckeditor_stylesheets:
+    - assets/css/ckeditor.css
+  socialbase/custom:
+    - socialtrek/custom
 
 # This section is used by the contrib module, Component Libraries. It allows you
 # to reference .twig files in your components/ directory.

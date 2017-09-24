@@ -172,7 +172,7 @@ tables:
     theme:
       assets/css/tables.css: {}
 
-tables:
+custom:
   css:
     theme:
       assets/css/custom.css: {}
