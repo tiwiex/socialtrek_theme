@@ -34,7 +34,7 @@
     &:hover,
     &:focus {
       color: $navbar-default-brand-hover-color;
-      background-color: $brand-accent;
+      background-color: $navbar-default-brand-hover-bg;
     }
   }
 
@@ -47,7 +47,7 @@
       &:focus {
         color: $navbar-default-link-hover-color;
         fill: $navbar-default-link-hover-color;
-        background-color: $navbar-default-link-hover-bg;
+        background-color: #abc654;
       }
     }
 

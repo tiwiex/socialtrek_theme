@@ -79,7 +79,8 @@ libraries-extend:
     - socialtrek/stream
   socialbase/page-node:
     - socialtrek/page-node
-
+  socialbase/tables:
+    - socialtrek/tables
 ckeditor_stylesheets:
   - assets/css/ckeditor.css
 

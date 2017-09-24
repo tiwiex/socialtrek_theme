@@ -167,6 +167,16 @@ site-footer:
     theme:
       assets/css/site-footer.css: {}
 
+tables:
+  css:
+    theme:
+      assets/css/tables.css: {}
+
+tables:
+  css:
+    theme:
+      assets/css/custom.css: {}
+
 ### 2.4 Templates
 page-node:
   css:
