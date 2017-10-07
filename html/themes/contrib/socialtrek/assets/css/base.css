@@ -305,6 +305,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   color: #4d4d4d;
   background-color: #f3f3f3;
+  background-color: #f3f3f3;
+  background: radial-gradient(circle, orange, white);
 }
 
 .table > thead > tr > td.active,

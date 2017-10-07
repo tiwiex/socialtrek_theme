@@ -5,4 +5,6 @@ body {
   -moz-osx-font-smoothing: grayscale; //smooth font in firefox
   color: $default-color;
   background-color: $body-bg;
+  background-color: $body-bg;
+  background: radial-gradient(circle, orange, white);
 }
