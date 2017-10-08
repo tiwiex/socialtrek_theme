@@ -306,6 +306,7 @@ body {
   color: #4d4d4d;
   background-color: #f3f3f3;
   background-color: #f3f3f3;
+  background-image: url("../../trek_bg_sea.jpg");
   background: radial-gradient(circle, orange, white);
 }
 
