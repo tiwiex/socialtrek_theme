@@ -1,6 +1,7 @@
 /bin
 /html/core
 /html/modules/contrib
+/html/themes/contrib
 /html/profiles/contrib
 /html/sites/default/files
 vendor/

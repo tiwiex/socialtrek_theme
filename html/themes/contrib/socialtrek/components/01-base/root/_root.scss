@@ -6,5 +6,7 @@ body {
   color: $default-color;
   background-color: $body-bg;
   background-color: $body-bg;
-  background-image: url("../../trek_bg_sea.jpg");
+  background-image: url("../../trek_bg_sea.jpg"), url("../../trek_bg_people.jpeg");
+  background-repeat: no-repeat;
+  background-position: 0px -100px, 0px 1000px;
 }
